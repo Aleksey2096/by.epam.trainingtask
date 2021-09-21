@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+	<name>EPAM</name>
+	<employees>
+		<exscutives>
+			<executive firstName="Maksim" lastName="Evseev"
+				position="Chief Executive Officer" workExperience="20"
+				executiveSalaryKoefficient="35" />
+			<executive firstName="Ivan" lastName="Kovalev"
+				position="Chief Technology Officer" workExperience="16"
+				executiveSalaryKoefficient="22" />
+		</exscutives>
+		<projectManagers>
+			<projectManager firstName="Nikita" lastName="Kalinin"
+				position="Web project manager" workExperience="7"
+				projectManagerSalaryKoefficient="9" />
+			<projectManager firstName="Aleksandr"
+				lastName="Morozov" position="Android project manager"
+				workExperience="4" projectManagerSalaryKoefficient="6" />
+			<projectManager firstName="Artem" lastName="Savin"
+				position="iOS project manager" workExperience="5"
+				projectManagerSalaryKoefficient="7" />
+		</projectManagers>
+		<developers>
+			<developer firstName="Mihail" lastName="Sergeev"
+				position="Game developer" workExperience="8"
+				developerSalaryKoefficient="2" />
+			<developer firstName="Egor" lastName="Titov"
+				position="Android developer" workExperience="2"
+				developerSalaryKoefficient="1" />
+			<developer firstName="Andrey" lastName="Shestakov"
+				position="Web developer" workExperience="4"
+				developerSalaryKoefficient="1" />
+			<developer firstName="Sergey" lastName="Fokin"
+				position="iOS developer" workExperience="3"
+				developerSalaryKoefficient="1" />
+			<developer firstName="Vladimir" lastName="Zimin"
+				position="Web developer" workExperience="10"
+				developerSalaryKoefficient="2" />
+			<developer firstName="Petr" lastName="Ignatov"
+				position="Web developer" workExperience="5"
+				developerSalaryKoefficient="1" />
+			<developer firstName="Viktor" lastName="Doronin"
+				position="Android developer" workExperience="1"
+				developerSalaryKoefficient="1" />
+			<developer firstName="Aleksey" lastName="Arhipov"
+				position="Web developer" workExperience="6"
+				developerSalaryKoefficient="1" />
+			<developer firstName="Anton" lastName="Gukov"
+				position="Game developer" workExperience="7"
+				developerSalaryKoefficient="2" />
+			<developer firstName="Boris" lastName="Gusev"
+				position="iOS developer" workExperience="4"
+				developerSalaryKoefficient="1" />
+		</developers>
+		<testers>
+			<tester firstName="Kirill" lastName="Belov"
+				position="Test automation engineer" workExperience="12"
+				testerSalaryKoefficient="2" />
+			<tester firstName="Igor" lastName="Kulikov"
+				position="Functional tester" workExperience="5"
+				testerSalaryKoefficient="1" />
+			<tester firstName="Georgiy" lastName="Muhin"
+				position="Functional tester" workExperience="1"
+				testerSalaryKoefficient="1" />
+			<tester firstName="Aleksandr" lastName="Korolev"
+				position="Security tester" workExperience="2"
+				testerSalaryKoefficient="1" />
+			<tester firstName="Platon" lastName="Lebedev"
+				position="Performance tester" workExperience="7"
+				testerSalaryKoefficient="2" />
+		</testers>
+		<designers>
+			<designer firstName="Maksim" lastName="Denisov"
+				position="Web designer" workExperience="4"
+				designerSalaryKoefficient="1" />
+			<designer firstName="Andrey" lastName="Petrov"
+				position="Game designer" workExperience="3"
+				designerSalaryKoefficient="1" />
+			<designer firstName="Ivan" lastName="Rusakov"
+				position="Mobile Designer" workExperience="19"
+				designerSalaryKoefficient="3" />
+		</designers>
+		<systemAdministrators>
+			<systemAdministrator firstName="Oleg"
+				lastName="Shilov" position="Information security engineer"
+				workExperience="2" systemAdministratorSalaryKoefficient="1" />
+			<systemAdministrator firstName="Petr"
+				lastName="Stepanov" position="Network administrator"
+				workExperience="13" systemAdministratorSalaryKoefficient="2" />
+			<systemAdministrator firstName="Ignat"
+				lastName="Volkovich" position="System architect-engineer"
+				workExperience="6" systemAdministratorSalaryKoefficient="1" />
+		</systemAdministrators>
+	</employees>
+</company>
